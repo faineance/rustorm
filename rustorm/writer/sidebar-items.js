@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["SqlFrag","sql fragment use this for writing SQL statements"],["Writer","generic string writer use this for writing source code"]]});

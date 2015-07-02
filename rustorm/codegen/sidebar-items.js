@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["generate_all","this is the default config generation FIXME need to compartmentalize each 1. structs 2. meta mod.rs"],["get_all_tables",""],["get_schemas","get the database schema"],["get_tables_in_schema","get all tables with schema name"]],"struct":[["Config","configuration for generating code"]]});
